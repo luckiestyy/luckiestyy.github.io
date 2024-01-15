@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "ZodiacToolsWeb",
+  "short_name": "ZodiacToolsWeb",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
